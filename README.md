@@ -1,5 +1,7 @@
-# 5183 Robot Codebase:
+# rosco
 
-This is the Base code
+FRC 5183's 2024 robot.
 
-All usages are contained in their own branches. 
+Originally hosted in frc5183/robot repo on the rosco branch.
+
+This code is not used. The robot no longer exists (in a built form).
